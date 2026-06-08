@@ -1,9 +1,14 @@
-# x-template-html007: Librapolis
+# Libra City (x-template-html007) - เมืองแห่งความสมดุลและศิลปะ
 
-![HTML5](https://img.shields.io/badge/HTML5-Offline-orange?logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-Offline-blue?logo=css3)
-![JavaScript](https://img.shields.io/badge/JS-Offline-yellow?logo=javascript)
-![Offline Ready](https://img.shields.io/badge/Offline-Ready-brightgreen)
+[![Deploy to GitHub Pages](https://github.com/microtronic-thailand/x-template-html007/actions/workflows/deploy.yml/badge.svg)](https://microtronic-thailand.github.io/x-template-html007/)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+## คำอธิบาย
+
+**Librapolis** คือมหานครจำลองแห่งราศีตุลย์ ที่ผสมผสานความงาม ความยุติธรรม และมิตรภาพไว้ในหนึ่งเดียว
+โปรเจกต์นี้ทำงาน **ออฟไลน์** ได้ 100% โดยไม่มีการเรียกใช้ CDN หรือทรัพยากรภายนอกใด ๆ
 
 ## โครงสร้างโปรเจค
 

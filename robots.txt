@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ex2-axon.github.io/x-template-html000/sitemap.xml

@@ -1,18 +1,16 @@
 # x-template-html009: Sagittarius City
 
-![HTML5](https://img.shields.io/badge/HTML5-Offline-orange?logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-Offline-blue?logo=css3)
-![JavaScript](https://img.shields.io/badge/JS-Offline-yellow?logo=javascript)
-![Offline Ready](https://img.shields.io/badge/Offline-Ready-brightgreen)
+## Sagittarius City (x-template-html009) - มหานครแห่งเสรีและปัญญาญาณ
+
+[![Deploy to GitHub Pages](https://github.com/microtronic-thailand/x-template-html009/actions/workflows/deploy.yml/badge.svg)](https://microtronic-thailand.github.io/x-template-html009/)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ## คำอธิบาย
 
-`x-template-html009` เป็นธีมเว็บไซต์ "Sagittarius City" ที่ออกแบบโดยให้หน้าเว็บทำงานได้แบบออฟไลน์ทั้งหมด:
-
-- แยก `js`, `css`, `components` อย่างชัดเจน
-- โหลดฟอนต์แบบออฟไลน์จากโฟลเดอร์ `assets/fonts`
-- ไม่พึ่งพา CDN, Google Fonts หรือ Tailwind CDN ใดๆ
-- ใช้โครงสร้างแบบสลับหน้าจอ (slide) และมีระบบเลือกเมนูบน header
+**Sagittarius City** คือมหานครจำลองแห่งราศีธนู ที่ออกแบบสำหรับผู้รักการเดินทาง เสรีภาพ และการเรียนรู้แบบไร้กรอบจำกัด
+โปรเจกต์นี้ทำงาน **ออฟไลน์** ได้ 100% โดยไม่มีการเรียกใช้ CDN หรือทรัพยากรภายนอกใด ๆมีระบบเลือกเมนูบน header
 
 ## โครงสร้างไฟล์
 

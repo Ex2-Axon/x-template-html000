@@ -1,20 +1,16 @@
 # x-template-html008: Scorpio Metropolis
 
-![HTML5](https://img.shields.io/badge/HTML5-Offline-orange?logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-Offline-blue?logo=css3)
-![JavaScript](https://img.shields.io/badge/JS-Offline-yellow?logo=javascript)
-![Offline Ready](https://img.shields.io/badge/Offline-Ready-brightgreen)
+## Scorpio Metropolis (x-template-html008) - มหานครพิจิก
+
+[![Deploy to GitHub Pages](https://github.com/microtronic-thailand/x-template-html008/actions/workflows/deploy.yml/badge.svg)](https://microtronic-thailand.github.io/x-template-html008/)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ## คำอธิบาย
 
-`x-template-html008` เป็นหน้าตัวอย่างธีม "Scorpio Metropolis" ซึ่งออกแบบมาเป็นเว็บไซต์หนึ่งหน้าที่มี:
-
-- ส่วนแนะนำเมืองและสัญลักษณ์
-- แผนที่เชิงโต้ตอบสำหรับเลือกย่านสำรวจ
-- โปรไฟล์ลักษณะนิสัยของราศีพิจิก
-- ตารางความเข้ากันได้กับราศีอื่น
-- มินิเกมสัญชาตญาณแบบออฟไลน์
-- ผู้พิทักษ์ดวงดาวจำลองไว้ในส่วน AI แบบ mock
+**Scorpio Metropolis** คือมหานครจำลองแห่งราศีพิจิก ที่สร้างจากพลังแห่งความลึกซึ้ง ความมุ่งมั่น และสัญชาตญาณ
+โปรเจกต์นี้ทำงาน **ออฟไลน์** ได้ 100% โดยไม่มีการเรียกใช้ CDN หรือทรัพยากรภายนอกใด ๆ mock
 
 ## โครงสร้างไฟล์
 

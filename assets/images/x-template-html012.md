@@ -1,13 +1,16 @@
 # Pisces Sanctuary
 
-![HTML5](https://img.shields.io/badge/HTML5-Offline-orange?logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-Offline-blue?logo=css3)
-![JavaScript](https://img.shields.io/badge/JS-Offline-yellow?logo=javascript)
-![Offline Ready](https://img.shields.io/badge/Offline-Ready-brightgreen)
+[![Deploy to GitHub Pages](https://github.com/microtronic-thailand/x-template-html012/actions/workflows/deploy.yml/badge.svg)](https://microtronic-thailand.github.io/x-template-html012/)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+## Pisces Sanctuary (x-template-html012) - ดินแดนแห่งความฝัน
 
 ## คำอธิบาย
 
-`x-template-html012` เป็นเว็บไซต์ธีม `Pisces Sanctuary` ที่ปรับให้ทำงานได้แบบออฟไลน์โดยสมบูรณ์ โดยแยกไฟล์ออกเป็น:
+**Pisces Sanctuary** คือดินแดนแห่งราศีมีน ที่ถูกสร้างขึ้นจากความฝัน จินตนาการ และความเห็นอกเห็นใจ
+โปรเจกต์นี้ทำงาน **ออฟไลน์** ได้ 100% โดยไม่มีการเรียกใช้ CDN หรือทรัพยากรภายนอกใด ๆ
 
 - `index.html` - หน้าเว็บหลัก
 - `css/styles.css` - สไตล์ทั้งหมดโหลดในเครื่อง

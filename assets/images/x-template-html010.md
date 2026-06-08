@@ -1,13 +1,15 @@
 # Capricornia Metropolis
+# Capricornia Metropolis (x-template-html010) - มหานครแห่งสัจจะและความมุ่งมั่น
 
-![HTML5](https://img.shields.io/badge/HTML5-Offline-orange?logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-Offline-blue?logo=css3)
-![JavaScript](https://img.shields.io/badge/JS-Offline-yellow?logo=javascript)
-![Offline Ready](https://img.shields.io/badge/Offline-Ready-brightgreen)
+[![Deploy to GitHub Pages](https://github.com/microtronic-thailand/x-template-html010/actions/workflows/deploy.yml/badge.svg)](https://microtronic-thailand.github.io/x-template-html010/)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ## คำอธิบาย
 
-`x-template-html010` เป็นเว็บไซต์ธีม `Capricornia Metropolis` ที่ออกแบบให้ทำงานได้แบบออฟไลน์ โดยแยกไฟล์ออกเป็น:
+**Capricornia Metropolis** คือมหานครจำลองแห่งราศีมังกร ที่สร้างจากวินัย ความอดทน และเป้าหมายระยะยาว
+โปรเจกต์นี้ทำงาน **ออฟไลน์** ได้ 100% โดยไม่มีการเรียกใช้ CDN หรือทรัพยากรภายนอกใด ๆฟไลน์สำหรับเว็บ
 
 - `index.html` - โครงหน้าหลัก
 - `css/styles.css` - สไตล์ทั้งหมดในเครื่อง

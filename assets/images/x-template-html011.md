@@ -1,18 +1,16 @@
 # Aquarius Visionary City
 
-![HTML5](https://img.shields.io/badge/HTML5-Offline-orange?logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-Offline-blue?logo=css3)
-![JavaScript](https://img.shields.io/badge/JS-Offline-yellow?logo=javascript)
-![Offline Ready](https://img.shields.io/badge/Offline-Ready-brightgreen)
+[![Deploy to GitHub Pages](https://github.com/microtronic-thailand/x-template-html011/actions/workflows/deploy.yml/badge.svg)](https://microtronic-thailand.github.io/x-template-html011/)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+## Aquarius Visionary City (x-template-html011) - มหานครแห่งวิสัยทัศน์ราศีกุมภ์
 
 ## คำอธิบาย
 
-`x-template-html011` เป็นเว็บไซต์ธีม `Aquarius Visionary City` ที่ถูกแปลงให้ทำงานได้เต็มรูปแบบในเครื่องเดียว โดยแยกไฟล์เป็น:
-
-- `index.html` - โครงหน้าเว็บหลัก
-- `css/styles.css` - สไตล์ทั้งหมดในเครื่อง
-- `js/main.js` - สคริปต์ใช้งานภายในเว็บ
-- `js/components-loader.js` - โหลดส่วนประกอบ `header` และ `footer` แบบไดนามิก
+**Aquarius Visionary City** คือมหานครจำลองแห่งราศีกุมภ์ ที่สร้างจากความคิดสร้างสรรค์ นวัตกรรม และความอิสระ
+โปรเจกต์นี้ทำงาน **ออฟไลน์** ได้ 100% โดยไม่มีการเรียกใช้ CDN หรือทรัพยากรภายนอกใด ๆ `footer` แบบไดนามิก
 - `components/header.html` และ `components/footer.html` - ส่วนประกอบ UI แบบแยกไฟล์
 - `assets/fonts` - ฟอนต์ออฟไลน์สำหรับใช้งานโดยไม่ต้องเชื่อมต่อเน็ต
 
