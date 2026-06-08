@@ -1,8 +1,14 @@
-# Leo Metropolis - Offline-ready Template
+# Leo Metropolis (x-template-html005) - อาณาจักรแห่งราชสีห์ผู้สง่างาม
 
-## Overview
+[![Deploy to GitHub Pages](https://github.com/microtronic-thailand/x-template-html005/actions/workflows/deploy.yml/badge.svg)](https://microtronic-thailand.github.io/x-template-html005/)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-`x-template-html005` เป็นหน้าเว็บนำเสนอธีมเมืองสิงโต (Leo Metropolis) ที่ออกแบบให้ใช้งานได้ทั้งในสถานะออนไลน์และออฟไลน์ โดยแยกส่วนงานออกเป็น:
+## คำอธิบาย
+
+เว็บเพจชุด "Leo Metropolis" เป็นหน้า Landing Page หรือเทมเพลตที่ถูกสร้างมาเพื่อใช้ในโปรเจ็กต์ Canva Master Class โดยมีจุดเด่นคือการนำเสนอเนื้อหาในลักษณะ "City State" 
+หรือมหานครจำลองที่ดึงเอาเอกลักษณ์เฉพาะตัว ความภาคภูมิใจ และพรสวรรค์ของ **ชาวราศีสิงห์** มาถ่ายทอดผ่านสถาปัตยกรรมและเรื่องราวป็น:
 
 - `index.html` - หน้าเพจหลัก
 - `css/styles.css` - สไตล์ทั้งหมดถูกแยกออกมาเป็นไฟล์เดียว

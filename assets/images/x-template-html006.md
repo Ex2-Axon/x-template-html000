@@ -1,10 +1,14 @@
-# Virgopolis - x-template-html006
+# Virgopolis (x-template-html006) - เมืองราศีกันย์ออฟไลน์
 
-นี่คือเทมเพลต HTML5 ออฟไลน์สำหรับ `x-template-html006` ที่ออกแบบให้ทำงานได้โดยไม่ต้องพึ่งพาโค้ดออนไลน์หรือ CDN ใด ๆ
+[![Deploy to GitHub Pages](https://github.com/microtronic-thailand/x-template-html006/actions/workflows/deploy.yml/badge.svg)](https://microtronic-thailand.github.io/x-template-html006/)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-## คุณสมบัติหลัก
+## คำอธิบาย
 
-- ✅ แยกไฟล์ `CSS`, `JS`, และ `components` ชัดเจน
+**Virgopolis** (วิลโกโปลิส) คือเทมเพลตเว็บไซต์จำลองมหานครแห่งชาวราศีกันย์ ผู้รักความสมบูรณ์แบบ มีความเป็นระเบียบ และใส่ใจในรายละเอียด
+โปรเจกต์นี้ถูกออกแบบมาในสไตล์ Dashboard/Information Hub ที่สามารถใช้งาน **ออฟไลน์** ได้ 100% โดยมีการแยกส่วน Component อย่างชัดเจน
 - ✅ ไม่มีการเรียกใช้ CDN, Google Fonts, หรือ FontAwesome ออนไลน์
 - ✅ โหลด UI component ผ่าน `assets/load-components.js`
 - ✅ มีระบบตอบโต้นายกเทศมนตรีในโหมดออฟไลน์ด้วยคำตอบสำเร็จรูป
