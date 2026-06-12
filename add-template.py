@@ -143,7 +143,7 @@ def main():
         print(f"  ⚠ {md_path.name} มีอยู่แล้ว ข้าม")
 
     # อัปเดต TEMPLATE_IDS
-    new_ids     = current_ids + [new_id]
+    new_ids     = [new_id] + current_ids
     new_js_text = update_template_ids(js_text, new_ids)
     MAIN_JS.write_text(new_js_text, encoding="utf-8")
     print(f"\n✅ อัปเดต TEMPLATE_IDS → {', '.join(new_ids)}")
